@@ -1,0 +1,9 @@
+-r requirements.txt
+autopep8
+faker
+isort
+pylint==2.13
+flake8
+pytest==7.3.2
+pytest-django==4.5.2
+django-debug-toolbar==3.2.4
